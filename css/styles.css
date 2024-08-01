@@ -42,7 +42,7 @@ nav {
     background-image: url('../assets/images/banner1.jpg');
     background-size: cover;
     height: 540px;
-    border-radius: 8px;
+    transition: background-image 1s ease-in-out;
 }
 
 .main-title {
